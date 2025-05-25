@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "name": "Jakarta",
+    "province": "DKI Jakarta",
+    "year_founded": "1527",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Busway_in_Bundaran_HI.jpg/960px-Busway_in_Bundaran_HI.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Surabaya",
+    "province": "Jawa Timur",
+    "year_founded": "1293",
+    "image": "https://kompaspedia.kompas.id/wp-content/uploads/2020/11/20190520BAH32-scaled.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Bandung",
+    "province": "Jawa Barat",
+    "year_founded": "1810",
+    "image": "https://asset.kompas.com/crops/ASrd8SDELxvy5W746vwTgKyY52A=/0x0:780x520/750x500/data/photo/2021/09/29/6153ca424f2bc.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Medan",
+    "province": "Sumatera Utara",
+    "year_founded": "1590",
+    "image": "https://www.agoda.com/wp-content/uploads/2024/09/Featured-image-Al-Mashun-Mosque-Medan-Indonesia.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Yogyakarta",
+    "province": "DI Yogyakarta",
+    "year_founded": "1755",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpQoL_JRDhde61Xu7EPxoci3kDSaQWA75Ng&s"
+  }
+  "id": "6",
+    "name": "Bali",
+    "province": "Bali",
+    "year_founded": "1906",
+    "image": "https://www.agoda.com/wp-content/uploads/2024/12/Bali-featured.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Makassar",
+    "province": "Sulawesi Selatan",
+    "year_founded": "1535",
+    "image": "https://img.okezone.com/content/2023/02/03/406/2758665/menguak-asal-usul-kenapa-makassar-juga-disebut-ujung-pandang-ubKIQMTSus.jpgk"
+  },
+  {
+    "id": "8",
+    "name": "Semarang",
+    "province": "Jawa Tengah",
+    "year_founded": "1547",
+    "image": "https://warakngendog.com/wp-content/uploads/2023/04/kota-semarang.jpeg"
+  },
+  {
+    "id": "9",
+    "name": "Palembang",
+    "province": "Sumatera Selatan",
+    "year_founded": "1825",
+    "image": "https://awsimages.detik.net.id/community/media/visual/2023/03/17/jembatan-ampera-palembang-foto-instagram-pariwisatapalembang_43.jpeg?w=1200"
+  },
+  {
+    "id": "10",
+    "name": "Solo",
+    "province": "Jawa Tengah",
+    "year_founded": "1745",
+    "image": "https://webasset.b-cdn.net/webprofile//default-joglosemar/berita/20240725153151_jalan-slamet-riyadi-solo-surakarta-169.jpeg"
+  }
+]
