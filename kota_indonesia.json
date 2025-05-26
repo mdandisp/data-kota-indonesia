@@ -4,6 +4,8 @@
     "name": "Jakarta",
     "province": "DKI Jakarta",
     "year_founded": "1527",
+    "population": "10500000",
+    "area": "662.33 km²",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Busway_in_Bundaran_HI.jpg/960px-Busway_in_Bundaran_HI.jpg"
   },
   {
@@ -11,6 +13,8 @@
     "name": "Surabaya",
     "province": "Jawa Timur",
     "year_founded": "1293",
+    "population": "3200000",
+    "area": "350.54 km²",
     "image": "https://kompaspedia.kompas.id/wp-content/uploads/2020/11/20190520BAH32-scaled.jpg"
   },
   {
@@ -18,6 +22,8 @@
     "name": "Bandung",
     "province": "Jawa Barat",
     "year_founded": "1810",
+    "population": "2500000",
+    "area": "167.67 km²",
     "image": "https://asset.kompas.com/crops/ASrd8SDELxvy5W746vwTgKyY52A=/0x0:780x520/750x500/data/photo/2021/09/29/6153ca424f2bc.jpg"
   },
   {
@@ -25,6 +31,8 @@
     "name": "Medan",
     "province": "Sumatera Utara",
     "year_founded": "1590",
+    "population": "2300000",
+    "area": "265.10 km²",
     "image": "https://www.agoda.com/wp-content/uploads/2024/09/Featured-image-Al-Mashun-Mosque-Medan-Indonesia.jpg"
   },
   {
@@ -32,13 +40,17 @@
     "name": "Yogyakarta",
     "province": "DI Yogyakarta",
     "year_founded": "1755",
+    "population": "4000000",
+    "area": "318.00 km²",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpQoL_JRDhde61Xu7EPxoci3kDSaQWA75Ng&s"
   },
   {
-  "id": "6",
+    "id": "6",
     "name": "Bali",
     "province": "Bali",
     "year_founded": "1906",
+    "population": "4600000",
+    "area": "5780.06 km²",
     "image": "https://www.agoda.com/wp-content/uploads/2024/12/Bali-featured.jpg"
   },
   {
@@ -46,6 +58,8 @@
     "name": "Makassar",
     "province": "Sulawesi Selatan",
     "year_founded": "1535",
+    "population": "1450000",
+    "area": "175.77 km²",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Makassar_Sulawesi_Pantai_Losari.jpg/1200px-Makassar_Sulawesi_Pantai_Losari.jpg"
   },
   {
@@ -53,6 +67,8 @@
     "name": "Semarang",
     "province": "Jawa Tengah",
     "year_founded": "1547",
+    "population": "1700000",
+    "area": "373.72 km²",
     "image": "https://warakngendog.com/wp-content/uploads/2023/04/kota-semarang.jpeg"
   },
   {
@@ -60,6 +76,8 @@
     "name": "Palembang",
     "province": "Sumatera Selatan",
     "year_founded": "1825",
+    "population": "1700000",
+    "area": "400.61 km²",
     "image": "https://awsimages.detik.net.id/community/media/visual/2023/03/17/jembatan-ampera-palembang-foto-instagram-pariwisatapalembang_43.jpeg?w=1200"
   },
   {
@@ -67,6 +85,8 @@
     "name": "Solo",
     "province": "Jawa Tengah",
     "year_founded": "1745",
+    "population": "500000",
+    "area": "44.02 km²",
     "image": "https://webasset.b-cdn.net/webprofile//default-joglosemar/berita/20240725153151_jalan-slamet-riyadi-solo-surakarta-169.jpeg"
   }
 ]
